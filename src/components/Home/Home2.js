@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="#"
+                  href="https://tanloidev.id.vn/#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="#"
+                  href="https://tanloidev.id.vn/#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="#"
+                  href="https://tanloidev.id.vn/#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
